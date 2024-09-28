@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://robrapiet.github.io/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/app/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/assets/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/css/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/data/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/includes/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/item/sitemap.html.gz
+Sitemap: https://robrapiet.github.io/src/sitemap.html.gz
